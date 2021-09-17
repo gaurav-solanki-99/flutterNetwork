@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66e33713-923c-4762-a218-c3b7448a41a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1yGkct2tqn0TBx8x3iAxocXZgkr" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="Unnamed" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_network/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.Unnamed" />
+      <item itemvalue="Flutter.main.dart" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66e33713-923c-4762-a218-c3b7448a41a7" name="Default Changelist" comment="" />
+      <created>1631885394616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631885394616</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="258" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1631885674958">
+      <screen x="0" y="27" width="1600" height="837" />
+    </state>
+    <state x="258" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1600.837@0.27.1600.837" timestamp="1631885674958" />
+    <state x="532" y="237" width="525" height="423" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1631885666321">
+      <screen x="0" y="27" width="1600" height="837" />
+    </state>
+    <state x="532" y="237" width="525" height="423" key="#com.intellij.ide.util.TreeFileChooserDialog/0.27.1600.837@0.27.1600.837" timestamp="1631885666321" />
+    <state x="632" y="345" width="335" height="285" key="Github.ShareDialog" timestamp="1631886711172">
+      <screen x="0" y="27" width="1600" height="837" />
+    </state>
+    <state x="632" y="345" width="335" height="285" key="Github.ShareDialog/0.27.1600.837@0.27.1600.837" timestamp="1631886711172" />
+    <state x="289" y="80" width="1022" height="737" key="SettingsEditor" timestamp="1631886912182">
+      <screen x="0" y="27" width="1600" height="837" />
+    </state>
+    <state x="289" y="80" width="1022" height="737" key="SettingsEditor/0.27.1600.837@0.27.1600.837" timestamp="1631886912182" />
+  </component>
+</project>
